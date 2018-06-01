@@ -1,6 +1,6 @@
 public class Test{ 
 	void doo() {
 		master change 1
-//I am force push!
+// test branch 3
 	}
 }
