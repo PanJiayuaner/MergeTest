@@ -3,5 +3,7 @@ public class Test{
 		master change 1
 // master checkin 1
 // master checkin 2
+// master checkin 3
+
 	}
 }
