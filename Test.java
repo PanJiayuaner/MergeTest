@@ -3,3 +3,4 @@ public class Test{
 		master change 1
 	}
 }
+TEST
